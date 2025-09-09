@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!<br>I'm Yousef Osama<br>, I'm a University Student<br> , I looking to be a Cyber Security Engineer</h2>
+<h2 align="left">Hi 👋!<br>I'm Yousef Osama , <br> I'm a University Student, <br> I looking to be a Cyber Security Engineer</h2>
 
 ###
 
